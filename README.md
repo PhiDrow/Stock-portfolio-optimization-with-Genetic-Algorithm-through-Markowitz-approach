@@ -1,6 +1,6 @@
 # 🧬 Portfolio Optimization with Genetic Algorithm
 
-This repository contains a **two-stage optimization approach** for portfolio optimization using Python.
+This repository contains a two-stage optimization approach for portfolio optimization using Python.
 
 The first stage applies the **Markowitz Mean-Variance Model** to generate an initial portfolio solution,  
 which is then refined in the second stage using a **Genetic Algorithm** to achieve better optimization results.
